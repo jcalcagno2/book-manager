@@ -1,0 +1,5 @@
+com/csc340sp23/bookmanager/book/Book.class
+com/csc340sp23/bookmanager/BookManagerApplication.class
+com/csc340sp23/bookmanager/book/BookController.class
+com/csc340sp23/bookmanager/book/BookRepository.class
+com/csc340sp23/bookmanager/book/BookService.class
